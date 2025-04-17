@@ -4,7 +4,7 @@
 #include <SPI.h>
 #include "Adafruit_VL53L0X.h"
 #include <Wire.h>
-
+/*Olá Celeste*/
 Adafruit_VL53L0X lox = Adafruit_VL53L0X();
 
 // Configuração do divisor de tensão
