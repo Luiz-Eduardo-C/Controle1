@@ -1,6 +1,6 @@
 #define I2C_SDA 21
 #define I2C_SCL 22
-
+/*Olá celeste*/
 #include <SPI.h>
 #include "Adafruit_VL53L0X.h"
 #include <Wire.h>
